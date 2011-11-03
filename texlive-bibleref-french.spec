@@ -1,3 +1,9 @@
+# revision 24267
+# category Package
+# catalog-ctan /macros/latex/contrib/bibleref-french
+# catalog-date 2011-10-11 18:30:36 +0200
+# catalog-license lppl1.3
+# catalog-version 2.2
 Name:		texlive-bibleref-french
 Version:	2.2
 Release:	1
@@ -50,6 +56,7 @@ conventions for use of bibleref in French.
 #- source
 %doc %{_texmfdistdir}/source/latex/bibleref-french/bibleref-french.dtx
 %doc %{_texmfdistdir}/source/latex/bibleref-french/bibleref-french.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -60,3 +67,5 @@ conventions for use of bibleref in French.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
