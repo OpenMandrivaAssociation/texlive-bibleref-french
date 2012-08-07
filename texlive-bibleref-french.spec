@@ -1,11 +1,12 @@
-# revision 25516
+# revision 27098
 # category Package
 # catalog-ctan /macros/latex/contrib/bibleref-french
-# catalog-date 2012-02-27 13:04:41 +0100
+# catalog-date 2012-07-14 16:43:20 +0200
 # catalog-license lppl1.3
+# catalog-version 2.3.1
 Name:		texlive-bibleref-french
-Version:	2.3
-Release:	2
+Version:	2.3.1
+Release:	1
 Summary:	French translations for bibleref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
