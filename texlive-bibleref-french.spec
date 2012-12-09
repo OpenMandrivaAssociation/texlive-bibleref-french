@@ -56,3 +56,30 @@ conventions for use of bibleref in French.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.3.1-1
++ Revision: 812057
+- Update to latest release.
+
+* Fri Mar 09 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.3-2
++ Revision: 783481
+- rebuild without scriptlet dependencies
+
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.3-1
++ Revision: 782959
+- Update to latest release.
+
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.2-2
++ Revision: 749689
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.2-1
++ Revision: 717935
+- texlive-bibleref-french
+- texlive-bibleref-french
+- texlive-bibleref-french
+- texlive-bibleref-french
+- texlive-bibleref-french
+
