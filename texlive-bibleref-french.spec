@@ -6,7 +6,7 @@
 # catalog-version 2.3.1
 Name:		texlive-bibleref-french
 Version:	2.3.1
-Release:	2
+Release:	3
 Summary:	French translations for bibleref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
