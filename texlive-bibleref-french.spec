@@ -5,9 +5,9 @@ Summary:	French translations for bibleref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.r53138.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.doc.r53138.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.source.r53138.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
