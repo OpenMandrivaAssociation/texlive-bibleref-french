@@ -1,6 +1,6 @@
 Name:		texlive-bibleref-french
 Version:	53138
-Release:	1
+Release:	2
 Summary:	French translations for bibleref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
