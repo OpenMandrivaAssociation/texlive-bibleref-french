@@ -3,7 +3,7 @@ Version:	53138
 Release:	2
 Summary:	French translations for bibleref
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bibleref-french
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibleref-french.doc.r%{version}.tar.xz
